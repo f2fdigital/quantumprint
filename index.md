@@ -26,8 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Best printing service in Cromwell(https://quantumprint.co.nz/)
-Best printing service in Invercargill(https://quantumprint.co.nz/)
+[Best printing service in Cromwell](https://quantumprint.co.nz/)
+[Best printing service in Invercargill](https://quantumprint.co.nz/)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
